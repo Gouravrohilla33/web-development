@@ -1,0 +1,23 @@
+.slider{
+    margin: 50px;
+    background-color: rgb(208, 43, 34);
+}
+.carousel-item{
+    text-align: center;
+    padding-top: 150px;
+    margin-bottom: 50px;
+}
+.carousel-item h1{
+    border: 10px solid white;
+    width: 500px;
+    padding: 10px;
+    margin: 0 auto;
+
+
+}
+.carousel-indicator[data-bs-target]{
+    height: 15px;
+    width: 15px;
+    border-radius: 100%;
+    background-color: black;
+}   
