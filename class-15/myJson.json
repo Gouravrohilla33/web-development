@@ -1,0 +1,29 @@
+[
+    {
+        "Name":"Prince Raj",  
+        "Roll":"1010",
+        "Course":"B.Tech",
+    },
+    {
+        "Name":"Ashutosh",
+        "Roll":"10200",
+        "Course":"B.Tech",
+    },
+    {
+        "Name":"Raj Jha",
+        "Roll":"1010",
+        "Course":"B.Tech",
+    },
+    {
+        "Name":"Raj Jha", 
+        "Roll":1010,
+        "Course":"B.Tech",
+        "friends":["Aditya","Ashutosh","Jatin","Sagar"],
+        "isProgrammer":"True",
+        "skills":{
+            "Programmming":"PHP",
+            "Experience":"2 Years"
+        },
+        "anotherSkills":null
+    }
+]

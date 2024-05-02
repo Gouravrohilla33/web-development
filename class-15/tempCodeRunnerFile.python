@@ -1,0 +1,42 @@
+'''c=int(input('please enter the temperature in faherengeit: '))
+
+f=(c*1.8)+32
+print('temperature in faharenheit is: ',f)
+
+num=int(input('enter any number: '))
+
+if num==0:
+    print('the given number is zero')
+
+elif num>0:
+    print('the given number is positive')
+else:
+    print('the given number is negative')
+
+num1=int(input('enter first number: '))
+num2=int(input('enter second number: '))
+num3=int(input('enter third number: '))
+
+if num1>num2>num3:
+    a=num1
+
+elif num2>num1>num3:
+    a=num2
+
+else:
+    a=num3
+print('\n the largest number is: ',a, 'compare to other number!')
+
+l=int(input('pease enter length of rectangle: '))
+b=int(input('pease enter width of rectangle: '))
+
+area=l*b
+print('Area of rectangle is: ',area)
+'''
+
+year=int(input('please enter year: '))
+if(year%4==0):
+    print('Leap Year')
+else:
+    print('Not a Leap Year')
+      
